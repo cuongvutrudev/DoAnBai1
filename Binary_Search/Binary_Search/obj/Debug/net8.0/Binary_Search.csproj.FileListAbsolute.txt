@@ -1,0 +1,14 @@
+E:\Bai1\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.exe
+E:\Bai1\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.deps.json
+E:\Bai1\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.runtimeconfig.json
+E:\Bai1\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.dll
+E:\Bai1\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.pdb
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfoInputs.cache
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfo.cs
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.csproj.CoreCompileInputs.cache
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.dll
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\refint\Binary_Search.dll
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.pdb
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.genruntimeconfig.cache
+E:\Bai1\Binary_Search\Binary_Search\obj\Debug\net8.0\ref\Binary_Search.dll

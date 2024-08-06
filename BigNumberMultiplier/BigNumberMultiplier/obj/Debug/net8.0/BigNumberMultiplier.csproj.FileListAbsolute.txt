@@ -1,0 +1,14 @@
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\bin\Debug\net8.0\BigNumberMultiplier.exe
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\bin\Debug\net8.0\BigNumberMultiplier.deps.json
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\bin\Debug\net8.0\BigNumberMultiplier.runtimeconfig.json
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\bin\Debug\net8.0\BigNumberMultiplier.dll
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\bin\Debug\net8.0\BigNumberMultiplier.pdb
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.AssemblyInfoInputs.cache
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.AssemblyInfo.cs
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.csproj.CoreCompileInputs.cache
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.dll
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\refint\BigNumberMultiplier.dll
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.pdb
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\BigNumberMultiplier.genruntimeconfig.cache
+E:\Bai1\BigNumberMultiplier\BigNumberMultiplier\obj\Debug\net8.0\ref\BigNumberMultiplier.dll
